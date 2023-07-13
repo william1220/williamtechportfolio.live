@@ -7,7 +7,7 @@
   <h3 align="center">My Portfolio </h3>
 
   <p align="center">
-    My Web Portfolio PAge
+    My Web Portfolio Page
     <br/>
     <br/>
     <a href="https://williamtechportfolio.live/">View Demo</a>
