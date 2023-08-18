@@ -51,3 +51,4 @@ Planned creation of Blog Page as a supplement to the page
 
 ## Acknowledgements
 * [Templatemo](https://#/)
+* [icons8.com](https://icons8.com/) - Source of Title Bar Icon
